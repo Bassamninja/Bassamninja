@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Bassamninja
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning cs
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in networks
+- 🌱 I’m currently learning Networking
 - 📫 How to reach me @bassamtamer365
 
 <!---
